@@ -9,7 +9,7 @@ function callMe() {
 }
 
 
-function crazy()() {
+function crazy() {
   // fix the code in here:
   thisIsCrazy();
 
